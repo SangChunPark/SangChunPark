@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SangChunPark, Ph.D. student in Sogang University, Seoul, South Korea
+- 👋 Hi, I’m @SangChunPark, a Ph.D. student in Sogang University, Seoul, South Korea
 - 👀 I’m researching in wireless communication technologies such as beamfomring, beam tracking, wireless channel modeling
 - 📫 ppp103207@sogang.ac.kr
 
